@@ -1,4 +1,3 @@
-flag = 0
 def to_deg(n):
     return n*9
 
